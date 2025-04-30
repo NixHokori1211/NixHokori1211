@@ -12,7 +12,7 @@
  
 <div> 
   <a href="https://youtube.com/@diretorahu?si=6Uon6j6cPJYqD651" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/shogun_Hokori" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/shogun_Hokori" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"_blank"></a> 
   <a href="Bryanyagami1211@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
