@@ -2,10 +2,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nix-Js" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-  <img align="center" alt="Nix-HTML" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
-  <img align="center" alt="Nix-CSS" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
-  <img align="center" alt="Nix-Csharp" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg">
+  <img align="center" alt="Nix-Js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img align="center" alt="Nix-HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
+  <img align="center" alt="Nix-CSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+  <img align="center" alt="Nix-Csharp" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg">
 </div>
   
   ##
