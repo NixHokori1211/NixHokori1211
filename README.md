@@ -2,10 +2,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nix-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nix-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nix-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nix-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Nix-Js" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img align="center" alt="Nix-HTML" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
+  <img align="center" alt="Nix-CSS" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+  <img align="center" alt="Nix-Csharp" height="30" width="40" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg">
 </div>
   
   ##
