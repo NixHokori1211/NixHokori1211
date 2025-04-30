@@ -1,4 +1,4 @@
-## slv meus aliados, eu sou Nix, dev front-end e futuro back
+## Oioi, eu me chamo Nix, desenvolver iniciante frontend e backend
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NixHokori1211&show_icons=true&theme=radical)
 
