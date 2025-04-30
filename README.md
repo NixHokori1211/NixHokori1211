@@ -1,5 +1,6 @@
 ## slv meus aliados, eu sou Nix, dev front-end e futuro back
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NixHokori1211&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nix-Js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
