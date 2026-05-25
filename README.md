@@ -1,4 +1,6 @@
-## Sejam bem-vindos ao meu perfil
+## olá a todos
+Eu sou Nix, um desenvolvedor júnior que possui conhecimento das seguintes linguagens de programação abaixo.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nix-Js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
   <img align="center" alt="Nix-HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
