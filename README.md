@@ -1,7 +1,4 @@
-## Oioi, eu me chamo Nix, desenvolver iniciante frontend e backend
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NixHokori1211&show_icons=true&theme=radical)
-
+## Sejam bem-vindos ao meu perfil
 <div style="display: inline_block"><br>
   <img align="center" alt="Nix-Js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
   <img align="center" alt="Nix-HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
