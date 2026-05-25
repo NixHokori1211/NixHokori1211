@@ -1,5 +1,7 @@
-## olá a todos
-Eu sou Nix, um desenvolvedor júnior que possui conhecimento das seguintes linguagens de programação abaixo.
+## Hello everybody
+I'm Nix, a Brazilian developer with knowledge of the following programming languages. But keep in mind that I'm a beginner in the field.
+
+I am currently learning about graphic design.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nix-Js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
